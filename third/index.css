@@ -1,0 +1,46 @@
+.header {
+    width: 100%;
+    height: 10vh;
+    background: lightgrey;
+    box-sizing: border-box;
+    padding: 10px 20px;
+}
+
+.logo {
+    width: 60px;
+    height: 60px;
+    background: dodgerblue;
+}
+
+.main {
+    width: 100%;
+    height: 42vh;
+    box-sizing: border-box;
+    padding: 40px;
+    font-family: monospace;
+    font-size: 1.5rem;
+}
+
+.colorband1 {
+    width: 100%;
+    height: 11vh;
+    background: dodgerblue;
+}
+
+.colorband2 {
+    width: 100%;
+    height: 11vh;
+    background: aquamarine;
+}
+
+.colorband3 {
+    width: 100%;
+    height: 11vh;
+    background: palegreen;
+}
+
+.footer {
+    width: 100%;
+    height: 11vh;
+    background: gold;
+}

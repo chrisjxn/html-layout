@@ -1,0 +1,49 @@
+body {
+}
+
+.top_element {
+    width: 90vw;
+    height: 27vh;
+    border-style: solid;
+    border-width: 5px;
+    margin: auto;
+    margin-top: 10px;
+    margin-bottom: 25px;
+    padding: 10px;
+    box-sizing: border-box;
+}
+
+.purple_rect {
+    background: purple;
+    width: 20px;
+    height: 60px;
+}
+
+.middle_element {
+    width: 90vw;
+    height: 27vh;
+    border-style: dotted;
+    border-width: 5px;
+    margin: auto;
+    margin-bottom: 25px;
+    box-sizing: border-box;
+}
+
+.bottom_element {
+    width: 40vw;
+    height: 27vh;
+    border-style: solid;
+    border-width: 1px;
+    border-color: lightgrey;
+    box-shadow: 1px 1px lightgrey;
+    margin: auto;
+    color: darkblue;
+    text-transform: uppercase;
+    text-align: center;
+    vertical-align: middle;
+    line-height: 27vh;
+    font-size: 2rem;
+    font-weight: bold;
+    letter-spacing: 10px;
+    box-sizing: border-box;
+}
